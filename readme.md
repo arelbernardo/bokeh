@@ -15,3 +15,4 @@
 <b>[OTHERS] Commit Description</b>
 <blockquote>Use for other type of commit</blockquote>
 <br>
+<br>
